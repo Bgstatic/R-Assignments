@@ -1,6 +1,6 @@
 ---
-title: "STAT253 Homework#1"
-author: "Bilgehan Geçici 150117072"
+title: "STAT253"
+author: "Bilgehan Geçici"
 date: "09/03/2020"
 output:
   word_document: default
